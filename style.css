@@ -1,0 +1,30 @@
+.content{
+    background-color: #CAD2C5;
+    height: 550px;
+}
+
+.big-boxv{
+    min-height: 70vh;
+    background-color: #353535;
+    border-radius: 15px;
+}
+.big-boxh{
+    width: 90%;
+    height: 200px;
+    background-color:#353535;
+    border-radius: 15px;
+    }
+
+
+.sm-box{
+    width: 150px;
+    height: 150px;
+    background-color: #353535;
+    border-radius: 15px;
+}
+
+#search{
+    background-color: #353535;
+    color: white;
+
+}
